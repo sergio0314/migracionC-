@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "lyFikjKd92Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DESAROLLO\\Documents\\GitHub\\Migracion\\Migracion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\csharp.oledb\\1.5.2\\csharp.oledb.1.5.2.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\csharp.oledb.dependencyinjection\\1.5.2\\csharp.oledb.dependencyinjection.1.5.2.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\dotnetdbf\\7.0.1\\dotnetdbf.7.0.1.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.0.0\\microsoft.extensions.dependencyinjection.2.0.0.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\microsoft.win32.registry\\4.6.0\\microsoft.win32.registry.4.6.0.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\system.configuration.configurationmanager\\4.6.0\\system.configuration.configurationmanager.4.6.0.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\system.data.oledb\\4.6.0\\system.data.oledb.4.6.0.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\system.diagnostics.performancecounter\\4.6.0\\system.diagnostics.performancecounter.4.6.0.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\system.drawing.common\\4.6.0\\system.drawing.common.4.6.0.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\system.security.accesscontrol\\4.6.0\\system.security.accesscontrol.4.6.0.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.6.0\\system.security.cryptography.protecteddata.4.6.0.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\system.security.permissions\\4.6.0\\system.security.permissions.4.6.0.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\system.security.principal.windows\\4.6.0\\system.security.principal.windows.4.6.0.nupkg.sha512",
+    "C:\\Users\\DESAROLLO\\.nuget\\packages\\system.windows.extensions\\4.6.0\\system.windows.extensions.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
